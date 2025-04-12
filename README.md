@@ -39,7 +39,7 @@
 <p align="center">Frontend</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,vuetify,vite,webpack,sass,js,html,css,pinia,rollupjs,tailwind,tensorflow,vitest,windicss" />
+    <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,vuetify,vite,sass,js,html,css,pinia,rollupjs,tailwind,tensorflow,vitest,windicss" />
   </a>
 </p>
 <p align="center">Backend</p>
