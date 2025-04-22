@@ -15,7 +15,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working at **Chess.com**
+- 🔭 I’m currently building awesome **AI Agents**
 
 - 🌱 I’m currently learning **HTML Game Development and Real-Time Communication (Websocket)**
 
