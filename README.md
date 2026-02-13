@@ -1,78 +1,50 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Diego</h1></summary>
-  </ul>
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
+<br/>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
+<br/>
 
-<!--Intro start-->
-- 🔭 I’m currently building awesome **AI Agents**
-
-- 🌱 I’m currently learning **HTML Game Development and Real-Time Communication (Websocket)**
-
-- ☁️ I have a strong interest in cloud computing. Currently, I’m diving deeper into **Azure**.
-
-- 📝 I regularly work on projects and share code insights on [GitHub](https://github.com/diegofer25)
-
-- 💬 Ask me about **full-stack JavaScript, Vue3, PhaserJS, TypeScript, Nodejs, MongoDB, Azure, Google Cloud**
-
-- 📫 Feel free to reach me at **[diego.lamarao92@gmail.com]**
-<!--Intro end-->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">Frontend</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,vuetify,vite,sass,js,html,css,pinia,rollupjs,tailwind,tensorflow,vitest,windicss" />
-  </a>
-</p>
-<p align="center">Backend</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,bun,deno,elasticsearch,nestjs,express,mongodb,mysql,postgres,redis,python,firebase,nginx" />
-  </a>
-</p>
-<p align="center">Cloud</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,gcp,aws" />
-  </a>
-</p>
-<p align="center">Miscellaneous</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,github,postman,githubactions" />
-  </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/diego-lamarao" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+- 🔭 I’m currently building awesome AI agents.
+- 🌱 I’m currently learning HTML game development and real-time communication with WebSockets.
+- ☁️ I’m focused on cloud computing, especially Azure.
+- 💬 Ask me about full-stack JavaScript, Vue 3, PhaserJS, TypeScript, Node.js, MongoDB, Azure, and Google Cloud.
+
+**Currently at** Building projects at [@diegofer25](https://github.com/diegofer25)
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:diego.lamarao92@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diego-lamarao">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/diegofer25">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffb020" alt="GitHub"/>
+  </a>
+</div>
